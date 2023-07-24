@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenneth Y Montenegro
 - 👀 I’m interested in learning how to Code
 - 🌱 I’m currently learning how to be a Full Stack Developer
-- 💞️ I’m looking to collaborate on Code projects
+- 💞️ I’m looking to collaborate on any Full Stack projects
 - 📫 How to reach me by email Kennethyerold@gmail.com
 
 <!---
